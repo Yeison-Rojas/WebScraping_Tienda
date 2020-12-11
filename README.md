@@ -6,7 +6,8 @@ grupo: # 10
 
 **Integrantes:**
 
-Yeison Darío Rojas Mora
+Yeison Darío Rojas 
+
 Manuel Fernando Vasquez Vasquez
 
 **Objetivo:** Programa que permite sacar información de la web, mas especificamente de algunos productos de tiendas metro como lo es su nombre y su precio.
